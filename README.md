@@ -1,3 +1,3 @@
-###Mi proyecto
+Mi proyecto
 
 - Ejemplo de readme
